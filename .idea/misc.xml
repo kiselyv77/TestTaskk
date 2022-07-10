@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/drawable/background_bottom_sheet.xml" value="0.127" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/drawable/best_rc_image_background.xml" value="0.1715" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1715" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/drawable/ic_location.xml" value="0.1715" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/drawable/searchview_background.xml" value="0.1715" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/costom_seachview.xml" value="0.253125" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/fragment1.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/fragment_1.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/fragment_2.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/fragment_3.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/fragment_4.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/fragment_all.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/Mi/AndroidStudioProjects/TestTaskk/app/src/main/res/layout/list_item.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
